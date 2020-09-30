@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: productmicroservicerepo
-        image: productmicroservicecr.azurecr.io/productmicroservicerepo:latest
+        image: retailmanagementcr.azurecr.io/productmicroservicerepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

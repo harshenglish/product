@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U+wHLU/dL+pEZznkvS27Ls82uwYBmXr+6YxVfXFlaLA/56IX5RfZaTdS0Pe/bRHAaeWtktKTIOalbW4Z4j8Iew==",
+  "dgSpecHash": "T9o35PnkdUJYyqYxmulu4/BOZje6mAkFiThNpSr7xPRxhiPQrynCRDZP5CTWPAzxRbKtC9EmOU5JGfONHxUUOA==",
   "success": true,
-  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Harsha_final\\ProductsModule\\Product\\Product.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }

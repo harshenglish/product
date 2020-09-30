@@ -79,3 +79,24 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\Users\user\Desktop\Harsha_final\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
