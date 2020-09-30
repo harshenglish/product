@@ -1,0 +1,81 @@
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project testDemo\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project t1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
